@@ -1,0 +1,14 @@
+layout_spectrum: 0.6707267127931118
+typography_spectrum: 0.04633290064521134
+color:
+  brandStrength: 0.43661340000107884
+  lightness: 0.9059058984275907
+  saturation: 0.4799359671305865
+  rhythmicContrast: 0.47173633822239935
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Bencredible
