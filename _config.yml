@@ -1,4 +1,3 @@
-layout_spectrum: 0.6707267127931118
 typography_spectrum: 0.04633290064521134
 color:
   brandStrength: 0.43661340000107884
@@ -11,5 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.6707267127931118
 name: Bencredible
 title: Bencredible's Crazy Brain
+description: Are you sure you want to go there?
